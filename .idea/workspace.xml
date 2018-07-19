@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c8004e-ae9c-4418-8883-383edd41fbd8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ShipAcc_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ShipAcc_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MainKt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/database/Shipment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/database/ShipmentDatabase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/file/Line.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/file/Lines.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/file/Line.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/file/Line.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -87,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/file/Line.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="658" selection-start-line="5" selection-start-column="658" selection-end-line="5" selection-end-column="658" />
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -806,7 +799,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -896,7 +888,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/file/Line.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="658" selection-start-line="5" selection-start-column="658" selection-end-line="5" selection-end-column="658" />
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
